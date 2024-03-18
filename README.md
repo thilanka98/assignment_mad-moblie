@@ -8,7 +8,13 @@ Before you begin, ensure you have the following installed:
 
 - [Terraform](https://www.terraform.io/downloads.html)
 - AWS CLI configured with appropriate permissions
-
+    - AmazonEC2FullAccess
+    - AmazonKinesisFirehoseFullAccess
+    - AmazonS3FullAccess
+    - AWSLambda_FullAccess
+    - CloudWatchEventsFullAccess
+    - CloudWatchFullAccess
+    - IAMFullAccess
 ##Steps
 
 1. Clone this repository:
