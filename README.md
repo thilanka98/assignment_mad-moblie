@@ -18,11 +18,12 @@ Before you begin, ensure you have the following installed:
 
 2. Navigate to the cloned directory:
 
-   '''bash
+   ```bash
    cd mad_mobile-assignment
 
-3. Initialize Terraform
+3. Initialize Terraform:
 
-   '''bash
+   ```bash
    terraform init
+
 
