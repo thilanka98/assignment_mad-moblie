@@ -17,10 +17,12 @@ Before you begin, ensure you have the following installed:
    git clone https://github.com/thilanka98/assignment_mad-moblie.git
 
 2. Navigate to the cloned directory:
+
    '''bash
    cd mad_mobile-assignment
 
 3. Initialize Terraform
+
    '''bash
    terraform init
 
