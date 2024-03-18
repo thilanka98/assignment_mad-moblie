@@ -26,4 +26,23 @@ Before you begin, ensure you have the following installed:
    ```bash
    terraform init
 
+4. modify the variables.tf file to customize your deployment
 
+5. verify the Terraform configurations
+
+   ```bash
+   terraform plan
+
+6. apply the terraform configurations
+
+   ```bash
+   terraform plan
+
+7. after applying the configurations confirm it by typing 'yes'
+
+8. destroy the infrastructure using this command
+
+   ```bash
+   terraform destroy
+
+9. confirm thid step by typing 'yes'
